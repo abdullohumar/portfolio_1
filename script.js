@@ -41,19 +41,19 @@ ScrollReveal().reveal(".tech-stack h2", {
 
 ScrollReveal().reveal(".stack", {
     ...scrollRevealOption,
-    delay: 1800,
+    delay: 1200,
 });
 ScrollReveal().reveal(".projects h1", {
     ...scrollRevealOption,
-    delay: 800,
+    delay: 500,
 });
 ScrollReveal().reveal(".projects h2", {
     ...scrollRevealOption,
-    delay: 1000,
+    delay: 800,
 });
 ScrollReveal().reveal(".card", {
     ...scrollRevealOption,
-    delay: 1200,
+    delay: 1000,
 });
 
 ScrollReveal().reveal(".bar", {
